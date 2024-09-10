@@ -26,6 +26,10 @@ A simple web application that displays weather data for a given location. It pro
 - Suggestions based on the weather will be displayed and read out loud.
 - Text corresponding to the spoken words changes color in real-time to synchronize with the speech.
 
+## Demo Video
+
+[Download the demo video](demo.mp4)
+
 ## Screenshot
 
 ![Screenshot](screenshot.png)
